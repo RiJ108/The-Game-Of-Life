@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1579095981 source:d:\userdata\desktop\the game of life 3d\main.cpp
+	<GLFW/glfw3.h>
+	<iostream>
+	<GL/gl.h>
+	<unistd.h>
+	"fonction.h"
+	"TGOL.h"
+
+1576795845 d:\userdata\desktop\the game of life 3d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1579066599 source:d:\userdata\desktop\the game of life 3d\src\fonction.cpp
+	"fonction.h"
+
+1579066599 d:\userdata\desktop\the game of life 3d\include\fonction.h
+	<GL/gl.h>
+	<stdlib.h>
+	<iostream>
+	<iterator>
+
+1579095539 source:d:\userdata\desktop\the game of life 3d\src\tgol.cpp
+	"TGOL.h"
+
+1579095539 d:\userdata\desktop\the game of life 3d\include\tgol.h
+	<iostream>
+	<GLFW/glfw3.h>
+	"fonction.h"
+
+1579066599 source:d:\userdata\desktop\the game of life 2d\src\fonction.cpp
+	"fonction.h"
+
+1579066599 d:\userdata\desktop\the game of life 2d\include\fonction.h
+	<GL/gl.h>
+	<stdlib.h>
+	<iostream>
+	<iterator>
+
+1579095539 source:d:\userdata\desktop\the game of life 2d\src\tgol.cpp
+	"TGOL.h"
+
+1579095539 d:\userdata\desktop\the game of life 2d\include\tgol.h
+	<iostream>
+	<GLFW/glfw3.h>
+	"fonction.h"
+
+1576795845 d:\userdata\desktop\the game of life 2d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1579263566 source:d:\userdata\desktop\the game of life 2d\main.cpp
+	<GLFW/glfw3.h>
+	<iostream>
+	<GL/gl.h>
+	<unistd.h>
+	"fonction.h"
+	"TGOL.h"
+
